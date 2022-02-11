@@ -37,6 +37,10 @@ body,html {
   border-radius: 2rem;
 }
 
+.on {
+  background-color: #3882F6;
+}
+
 .switch {
   color: white;
   height: 150px;
